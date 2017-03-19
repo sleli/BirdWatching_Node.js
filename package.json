@@ -1,0 +1,22 @@
+{
+  "name": "bird-watching-js",
+  "version": "0.0.1",
+  "description": "The goal of the game is to refactor the code in the master branch following the SOLID PRINCIPLES. I presented this game at several conferences and you can find the proposed solution in the project branches.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "author": "Stefano Leli <stefano.leli@agilereloaded.it>",
+  "contributors": [{
+    "name": "@pferretti and @Arual90",
+    "email": ""
+  }],
+  "license": "CC-BY-SA-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sleli/BirdWatching_NodeJs"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}

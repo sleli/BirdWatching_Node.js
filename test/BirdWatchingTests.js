@@ -70,6 +70,7 @@ describe('Bird Watching Tests', () => {
     duck.setHeight(3);
 
     field.addBird(duck);
+    field.startGame('CUSTOM');
     assert.equal(field.shot(9, 5, 3), false);
   });
 });

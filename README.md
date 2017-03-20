@@ -9,5 +9,9 @@ I presented this game at several conferences and you can find the proposed solut
 
 3. [Italian Agile Day 2011 Presentation](http://www.slideshare.net/raist81/codice-legacy-usciamo-dal-pantano-iad11) [SLIDE ITA]
 
-
 Thanks to @pferretti and @Arual90 for their contribution
+
+### Instruction:
+1. Install [Node.js] (https://nodejs.org/it/)
+2. Launch: *npm install*
+3. Launch: *npm test*
